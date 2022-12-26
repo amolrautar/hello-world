@@ -1,12 +1,12 @@
 ---
 title: "hello world "
 Substitle:"We are from indai"
-author: "amol raut"
+author: "Ajay Koli"
 format: html
 editor: visual
 ---
 
-## Quarto for all the languages
+## Quarto for R
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
